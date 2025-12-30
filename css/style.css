@@ -1,9 +1,15 @@
 html {
-  background: #fff;
-  color: #000;
+ /* background: #fff; */
+  color: #fff;
  /* font-family: monospace; */
   font-family: Comic Sans MS;
   font-size: 1rem;
+}
+
+body {
+  background-image: url("../epic.png");
+  background-repeat: repeat;
+
 }
 
 a {
